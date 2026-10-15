@@ -1,0 +1,6 @@
+{
+  "name": "Hi5 Bike Query Engine",
+  "description": "Lightweight MCP web search tool and 10-bike testbench for on-demand parts, bottom bracket standards, and model-year variant extraction.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
